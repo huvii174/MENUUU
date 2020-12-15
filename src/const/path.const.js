@@ -1,4 +1,4 @@
-export const ROOT_URL = "http://localhost:3000";
+export const ROOT_URL = "https://enigmatic-mesa-73057.herokuapp.com";
 export const ROOT = "/";
 export const DASHBOARD = "/dashboard";
 export const NOT_FOUND = "/not-found";

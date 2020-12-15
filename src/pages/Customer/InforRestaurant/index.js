@@ -15,7 +15,7 @@ const InforRestaurant = () => {
       address: "Số 16, Lê Văn Lương, Cầu giấy, Hà Nội",
       time: "8h-22h",
       src:
-        "http://localhost:5000/api/image/c8a0bfba8df477dae6d1ba0b1ae1b3ca-20180207093718-1720.jpg",
+        "https://stark-savannah-08812.herokuapp.com:5000/api/image/c8a0bfba8df477dae6d1ba0b1ae1b3ca-20180207093718-1720.jpg",
     },
   ];
   return (
